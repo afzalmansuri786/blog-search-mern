@@ -38,8 +38,8 @@ Make sure you have the following installed:
 1. **Clone the repository**:
 
    ```bash
-   git clone <repository_url>
-   cd <repository_folder>
+   git clone https://github.com/afzalmansuri786/blog-search-mern.git
+   cd blog-search-mern
    ```
 
 2. **Install backend dependencies**:
